@@ -1,0 +1,6 @@
+[submodule "config/extensions/NevexoJack-JB.ecksclone"]
+	path = config/extensions/NevexoJack-JB.ecksclone
+	url = https://github.com/nevexo/ecksclone
+[submodule "config/workspace"]
+	path = config/workspace
+	url = https://github.com/nevexo/nevexo.space
